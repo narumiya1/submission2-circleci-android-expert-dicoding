@@ -1,2 +1,3 @@
-# submission2
-[![narumiya1](https://circleci.com/gh/narumiya1/submission2.svg?style=shield)](https://circleci.com/gh/narumiya1/submission2)
+# MySimpleCleanArchitecture
+[![R Eijun](https://circleci.com/gh/narumiya1/submission2.svg?style=svg)]
+(https://circleci.com/gh/narumiya1/submission2)
