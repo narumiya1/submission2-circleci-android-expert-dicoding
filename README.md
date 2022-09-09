@@ -1,3 +1,3 @@
 # submission2
 # MySimpleCleanArchitecture
-[![Arifaizin](https://circleci.com/gh/narumiya1/MySimpleCleanArchitecture.svg?style=svg)](https://circleci.com/gh/narumiya1/MySimpleCleanArchitecture)
+[![NarumiyaMei](https://circleci.com/gh/narumiya1/submission2.svg?style=svg)](https://circleci.com/gh/narumiya1/submission2)
